@@ -4,7 +4,7 @@
 - 👀 I’m interested in web and mobile development.
 - 🌱 I’m currently learning advanced techniques in JavaScript, React, and React Native.
 - 💞️ I’m looking to collaborate on innovative web and mobile app projects.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/camille-urbaniak-8556366b) | [Email](mailto:urbaniakcamille59@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/camille-urbaniak-8556366b) | [Email](mailto:urbaniakcamille59@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When I'm not coding, you can find me playing with my adorable Spitz dog, Nasta, who believes he's the supervisor of all my projects!
 
