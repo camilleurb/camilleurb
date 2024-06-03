@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @camilleurb
+# 👋 Hi, I’m Camille
 
 ## About Me
 - 👀 I’m interested in web and mobile development.
